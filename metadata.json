@@ -1,0 +1,7 @@
+{
+  "name": "OmniAgent Mobile AI - Autonomous Commercial Engine",
+  "description": "Ultra-scalable mobile AI agent application with zero-hallucination protocols, autonomous execution across coding, business automation, and translation, plus built-in mobile monetization & AdMob readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
